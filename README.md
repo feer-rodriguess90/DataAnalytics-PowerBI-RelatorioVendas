@@ -1,4 +1,4 @@
-# 📊 Desafio Final NTT Data - DIO: <br> Relatório de Vendas e Lucros com Data Analytics - Power BI
+# 📊 Desafio Final NTT Data - DIO: <br> Relatório de Vendas e Lucros com Data Analytics - Power BI ***(In Progress)***
 
 Este projeto faz parte do desafio final do Bootcamp de Engenharia de Dados com Python, promovido pela NTT Data em parceria com a DIO. O objetivo é desenvolver um relatório interativo em Power BI que analisa Vendas e Lucros com uma abordagem visual e analítica de Data Analytics.
 
